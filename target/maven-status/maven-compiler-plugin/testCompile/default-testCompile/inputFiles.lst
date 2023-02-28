@@ -1,11 +1,13 @@
 /Users/yildizsen/IdeaProjects/cucumber_second_project_5/src/test/java/steps/Hooks.java
 /Users/yildizsen/IdeaProjects/cucumber_second_project_5/src/test/java/steps/SmartBearSteps.java
-/Users/yildizsen/IdeaProjects/cucumber_second_project_5/src/test/java/utils/WindowHandler.java
+/Users/yildizsen/IdeaProjects/cucumber_second_project_5/src/test/java/utils/TextHandler.java
+/Users/yildizsen/IdeaProjects/cucumber_second_project_5/src/test/java/pages/SmartBearBasePage.java
+/Users/yildizsen/IdeaProjects/cucumber_second_project_5/src/test/java/utils/AlertHandler.java
+/Users/yildizsen/IdeaProjects/cucumber_second_project_5/src/test/java/pages/SmartBearOrdersPage.java
+/Users/yildizsen/IdeaProjects/cucumber_second_project_5/src/test/java/pages/SmartBearWebOrdersPage.java
+/Users/yildizsen/IdeaProjects/cucumber_second_project_5/src/test/java/steps/SmartBearWebOrdersSteps.java
 /Users/yildizsen/IdeaProjects/cucumber_second_project_5/src/test/java/runner/Runner.java
 /Users/yildizsen/IdeaProjects/cucumber_second_project_5/src/test/java/utils/Waiter.java
-/Users/yildizsen/IdeaProjects/cucumber_second_project_5/src/test/java/utils/TextHandler.java
 /Users/yildizsen/IdeaProjects/cucumber_second_project_5/src/test/java/utils/DropdownHandler.java
-/Users/yildizsen/IdeaProjects/cucumber_second_project_5/src/test/java/pages/SmartBearBasePage.java
 /Users/yildizsen/IdeaProjects/cucumber_second_project_5/src/test/java/utils/ConfigReader.java
-/Users/yildizsen/IdeaProjects/cucumber_second_project_5/src/test/java/utils/AlertHandler.java
 /Users/yildizsen/IdeaProjects/cucumber_second_project_5/src/test/java/utils/Driver.java

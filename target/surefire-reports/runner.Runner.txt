@@ -1,7 +1,0 @@
--------------------------------------------------------------------------------
-Test set: runner.Runner
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.117 s <<< FAILURE! - in runner.Runner
-initializationError(runner.Runner)  Time elapsed: 0.005 s  <<< ERROR!
-java.lang.IllegalArgumentException: Not a file or directory: /Users/yildizsen/IdeaProjects/cucumber_second_project_5/src/test/resources/features
-

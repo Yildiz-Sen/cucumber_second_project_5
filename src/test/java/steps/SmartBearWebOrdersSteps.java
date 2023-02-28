@@ -36,14 +36,12 @@ public class SmartBearWebOrdersSteps {
                 smartBearWebOrdersPage.webOrderItems.get(0).click();
                 break;
             case "View all products":
-                smartBearWebOrdersPage.clickOnCard();
+                smartBearWebOrdersPage.webOrderItems.get(1).click();
                 break;
             case "Order":
-                smartBearOrdersPage.processButton.click();
+                smartBearWebOrdersPage.webOrderItems.get(2).click();
             default:
                 throw new NotFoundException("The heading text is not defined!");
-                if (orderMenuItem.equals("Order"))
-                    smartBearWebOrdersPage.clickOnCard(orderMenuItem);
         }
     }
 

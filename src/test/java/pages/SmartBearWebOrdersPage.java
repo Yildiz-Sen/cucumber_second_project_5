@@ -33,8 +33,6 @@ public class SmartBearWebOrdersPage extends SmartBearBasePage {
                 card.click();
                 break;
             }
-
-
         }
     }
 }
