@@ -1,0 +1,8 @@
+utils/WindowHandler.class
+pages/SmartBearWebOrdersPage.class
+utils/TextHandler.class
+pages/SmartBearOrdersPage.class
+steps/SmartBearSteps.class
+utils/AlertHandler.class
+pages/SmartBearBasePage.class
+steps/Hooks.class
