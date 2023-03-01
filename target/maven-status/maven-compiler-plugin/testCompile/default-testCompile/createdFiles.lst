@@ -1,7 +1,13 @@
 pages/SmartBearWebOrdersPage.class
+steps/SmartBearSteps.class
+runner/Runner.class
+utils/Waiter.class
+steps/Hooks.class
+utils/ConfigReader.class
 utils/TextHandler.class
 pages/SmartBearOrdersPage.class
-steps/SmartBearSteps.class
 utils/AlertHandler.class
 pages/SmartBearBasePage.class
-steps/Hooks.class
+steps/SmartBearWebOrdersSteps.class
+utils/DropdownHandler.class
+utils/Driver.class

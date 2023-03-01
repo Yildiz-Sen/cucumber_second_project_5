@@ -1,5 +1,6 @@
 Feature: Validate invalid login attempt
 
+
   @Smoke
   Scenario: Validate invalid login attempt
     Given user is on "http://secure.smartbearsoftware.com/samples/testcomplete12/WebOrders/login.aspx"
@@ -8,6 +9,7 @@ Feature: Validate invalid login attempt
     And user clicks on Login button
     Then user should see "Invalid Login or Password." message
 
+
     @Smoke
   Scenario: Validate valid login attempt
     Given user is on "http://secure.smartbearsoftware.com/samples/testcomplete12/WebOrders/login.aspx"
@@ -15,6 +17,7 @@ Feature: Validate invalid login attempt
     And user enters password as "test"
     And user clicks on Login button
     Then user should be routed to "http://secure.smartbearsoftware.com/samples/testcomplete12/weborders/"
+
 
       @Regression
   Scenario: Validate "Web Orders" menu items
@@ -25,6 +28,7 @@ Feature: Validate invalid login attempt
     Then user should be routed to "http://secure.smartbearsoftware.com/samples/testcomplete12/weborders/"
     And validate below menu items are displayed
       | View all orders | View all products | Order |
+
 
         @Regression
    Scenario: Validate "Check All" and "Uncheck All" links
@@ -37,6 +41,7 @@ Feature: Validate invalid login attempt
      Then all rows should be checked
      When user clicks on "Uncheck All" button
      Then all rows should be unchecked
+
 
           @Regression
     Scenario: Validate adding new order
